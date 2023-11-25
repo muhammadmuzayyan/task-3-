@@ -1,0 +1,39 @@
+h1{
+
+    color: rgb(255, 0, 0);
+    text-overflow: ellipsis;
+    text-decoration: underline;
+    text-shadow: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration:solid;
+    text-overflow: ellipsis;
+    text-decoration: underline;
+    
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(241, 153, 241);
+
+}
+
+  h1:hover{
+
+    text-transform: uppercase;
+    color: bisque;
+   
+    box-shadow: 3px 3px rgb(212, 115, 3), -1em 0 .4em olive;
+    lighting-color: rgb(255, 0, 0);
+    mix-blend-mode:difference;
+text-decoration: underline;
+text-decoration: line-through;
+font-style: oblique;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+hr{
+
+color: rgb(246, 1, 1);
+
+}
